@@ -90,7 +90,7 @@ npm start
 - Email notifications
 - Session reminders
 
-## 👩‍💻 Author
+##  Author
 
 Aanchal Trehan  
 Electronics & Computer Engineering Student  
